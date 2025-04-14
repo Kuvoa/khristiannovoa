@@ -30,7 +30,7 @@ I'm a **Data Analytics student at Turing College** with a passion for solving pr
 
 ## 📈 Featured Projects
 
-- ✈️ [**O’Hare Airport Terminal Analysis**](https://github.com/khristiannovoa/airport-terminal-analysis)  
+- ✈️ [**O’Hare Airport Terminal Analysis**](https://github.com/Kuvoa/T3-vs-T1-Flight-Analysis)  
 
 
 ---
