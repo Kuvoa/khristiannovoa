@@ -30,17 +30,8 @@ I'm a **Data Analytics student at Turing College** with a passion for solving pr
 
 ## 📈 Featured Projects
 
-- 🎵 [**Spotify 2020 Top Tracks Analysis**](https://github.com/khristiannovoa/spotify-top50-analysis)  
-  Visualized key audio features by genre and identified correlations using pandas and matplotlib.
-
-- 🎮 [**Cookie Cats A/B Test**](https://github.com/khristiannovoa/ab-test-cookiecats)  
-  Analyzed mobile game retention across test groups using SQL, statistical inference, and cohort tracking.
-
 - ✈️ [**O’Hare Airport Terminal Analysis**](https://github.com/khristiannovoa/airport-terminal-analysis)  
-  Evaluated air traffic data to assist with retail store planning; built insights using Excel and manual data cleaning.
 
-- 🧪 [**Churn & Retention Dashboard**](https://github.com/khristiannovoa/customer-retention-churn)  
-  Power BI dashboard visualizing churn, retention trends, and customer segmentation with RFM analysis.
 
 ---
 
