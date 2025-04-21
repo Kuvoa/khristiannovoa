@@ -37,18 +37,17 @@ I'm a **Data Analytics student at Turing College** with a passion for solving pr
 
 ## 📚 What I'm Learning Now
 
-- 📊 Using **Jupyter Notebook** to create visualizations and explore data through charts and graphs  
-- 🧠 Practicing and reinforcing all of my coding knowledge — from Python and SQL to data cleaning, analysis, and storytelling  
-- 🛠️ Building confidence in end-to-end workflows: importing data, analyzing patterns, and presenting insights visually  
-- 🧪 Strengthening core concepts in A/B testing, customer behavior analysis, and retention metrics
+- Using **Jupyter Notebook** to create visualizations and explore data through charts and graphs  
+-  Practicing and reinforcing all of my coding knowledge — from Python and SQL to data cleaning, analysis, and storytelling  
+-  Building confidence in end-to-end workflows: importing data, analyzing patterns, and presenting insights visually  
+-  Strengthening core concepts in A/B testing, customer behavior analysis, and retention metrics
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/khristiannovoa)  
+- 💼 [LinkedIn](www.linkedin.com/in/khristian-novoa-4529a9353)  
 - 📧 khristiannovoa@gmail.com  
-- 🌍 [GitHub Portfolio](https://github.com/khristiannovoa)
 
 ---
 
